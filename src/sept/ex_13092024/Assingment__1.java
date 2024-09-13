@@ -14,25 +14,25 @@ public class Assingment__1 {
         System.out.print("Enter a number to print its multiplication table: ");
         int number = scanner.nextInt();
 
-        System.out.printf("%d × %d = %d%n", number, 1, number * 1);
+        System.out.printf("%d × %d = %d", number, 1, number * 1);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 2, number * 2);
+        System.out.printf("%d × %d = %d", number, 2, number * 2);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 3, number * 3);
+        System.out.printf("%d × %d = %d", number, 3, number * 3);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 4, number * 4);
+        System.out.printf("%d × %d = %d", number, 4, number * 4);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 5, number * 5);
+        System.out.printf("%d × %d = %d", number, 5, number * 5);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 6, number * 6);
+        System.out.printf("%d × %d = %d", number, 6, number * 6);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 7, number * 7);
+        System.out.printf("%d × %d = %d", number, 7, number * 7);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 8, number * 8);
+        System.out.printf("%d × %d = %d", number, 8, number * 8);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 9, number * 9);
+        System.out.printf("%d × %d = %d", number, 9, number * 9);
         System.out.println();
-        System.out.printf("%d × %d = %d%n", number, 10, number * 10);
+        System.out.printf("%d × %d = %d", number, 10, number * 10);
         System.out.println();
 
 
