@@ -3,7 +3,7 @@ double a = 34;
 double b = 10;
 Print - a+b, a-b, ab, a/b, a%b all the outputs.
  */
-package sept.ex_13092024;
+package Task;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package sept.ex_13092024;
+package Task;
 
-public class Foratting_Concept {
+public class Formatting_Concept {
 
     public static void main(String[] args) {
 

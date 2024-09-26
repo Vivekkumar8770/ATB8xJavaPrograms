@@ -1,6 +1,6 @@
-package sept.ex_06092024;
+package sept.JavaBasics;
 
-public class Lab002 {
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }

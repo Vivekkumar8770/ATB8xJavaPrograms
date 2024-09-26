@@ -4,7 +4,7 @@
 //10 × 2 = 20
 //10 × 3 = 30….
 //10 × 10 = 100.
-package sept.ex_13092024;
+package Task;
 import java.util.Scanner;
 public class Assingment__1 {
 
