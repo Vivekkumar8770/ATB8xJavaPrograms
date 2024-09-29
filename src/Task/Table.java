@@ -6,7 +6,7 @@
 //10 × 10 = 100.
 package Task;
 import java.util.Scanner;
-public class Assingment__1 {
+public class Table {
 
     public static void main(String[] args) {
 
