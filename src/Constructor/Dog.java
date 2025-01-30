@@ -1,4 +1,4 @@
-package Condtructor;
+package Constructor;
 
 public class Dog {
     String name;

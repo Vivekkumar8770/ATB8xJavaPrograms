@@ -1,4 +1,4 @@
-package Condtructor;
+package Constructor;
 
 public class AHuman {
     String eyes_color;

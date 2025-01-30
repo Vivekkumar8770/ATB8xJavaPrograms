@@ -1,4 +1,4 @@
-package Condtructor;
+package Constructor;
 
 public class Lab125 {
     public static void main(String[] args) {
